@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{2833D348-5A15-3520-B4BA-2903A7FF65E5}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>qbt_webui</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+    <VcpkgEnabled>false</VcpkgEnabled>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="do_not_import_user.props" Condition="exists('do_not_import_user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">qbt_webui.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">qbt_webui</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">qbt_webui</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">qbt_webui.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">qbt_webui</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">qbt_webui</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">qbt_webui.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">qbt_webui</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">qbt_webui</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.lib</TargetExt>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">qbt_webui.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">qbt_webui</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">qbt_webui</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.lib</TargetExt>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Debug;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /utf-8 /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;TORRENT_LINKING_SHARED;TORRENT_USE_ASSERTS;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;TORRENT_LINKING_SHARED;TORRENT_USE_ASSERTS;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Debug;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Debug;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message>Automatic MOC and UIC for target qbt_webui</Message>
+      <Command>setlocal
+cd C:\Users\redal\source\repos\qBittorrent_sln\src\webui
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui_autogen.dir/AutogenInfo.json Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Debug;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /utf-8 /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;TORRENT_LINKING_SHARED;TORRENT_USE_ASSERTS;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;TORRENT_LINKING_SHARED;TORRENT_USE_ASSERTS;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Debug;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Debug;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message>Automatic MOC and UIC for target qbt_webui</Message>
+      <Command>setlocal
+cd C:\Users\redal\source\repos\qBittorrent_sln\src\webui
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui_autogen.dir/AutogenInfo.json Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Release;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /utf-8 /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Release;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Release;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message>Automatic MOC and UIC for target qbt_webui</Message>
+      <Command>setlocal
+cd C:\Users\redal\source\repos\qBittorrent_sln\src\webui
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui_autogen.dir/AutogenInfo.json Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Release;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /utf-8 /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Release;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_Release;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message>Automatic MOC and UIC for target qbt_webui</Message>
+      <Command>setlocal
+cd C:\Users\redal\source\repos\qBittorrent_sln\src\webui
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui_autogen.dir/AutogenInfo.json Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_MinSizeRel;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /utf-8 /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_MinSizeRel;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_MinSizeRel;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message>Automatic MOC and UIC for target qbt_webui</Message>
+      <Command>setlocal
+cd C:\Users\redal\source\repos\qBittorrent_sln\src\webui
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui_autogen.dir/AutogenInfo.json MinSizeRel
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_MinSizeRel;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /utf-8 /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_MinSizeRel;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_MinSizeRel;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message>Automatic MOC and UIC for target qbt_webui</Message>
+      <Command>setlocal
+cd C:\Users\redal\source\repos\qBittorrent_sln\src\webui
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui_autogen.dir/AutogenInfo.json MinSizeRel
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_RelWithDebInfo;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /utf-8 /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_RelWithDebInfo;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_RelWithDebInfo;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message>Automatic MOC and UIC for target qbt_webui</Message>
+      <Command>setlocal
+cd C:\Users\redal\source\repos\qBittorrent_sln\src\webui
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui_autogen.dir/AutogenInfo.json RelWithDebInfo
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_RelWithDebInfo;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /utf-8 /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TORRENT_LINKING_SHARED;BOOST_ASIO_ENABLE_CANCELIO;WIN32_LEAN_AND_MEAN;BOOST_ALL_NO_LIB;_SCL_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;TORRENT_NO_DEPRECATE;TORRENT_USE_ICONV;TORRENT_USE_OPENSSL;TORRENT_USE_LIBCRYPTO;QT_CORE_LIB;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_XML_LIB;QT_DISABLE_DEPRECATED_BEFORE=0x050f02;QT_NO_CAST_TO_ASCII;QT_NO_CAST_FROM_BYTEARRAY;QT_USE_QSTRINGBUILDER;QT_STRICT_ITERATORS;QT_NO_DEBUG_OUTPUT;NTDDI_VERSION=0x06010000;_WIN32_WINNT=0x0601;_WIN32_IE=0x0601;NOMINMAX;UNICODE;_UNICODE;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_RelWithDebInfo;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\include_RelWithDebInfo;C:\Users\redal\source\repos\qBittorrent\src;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtNetwork;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtSql;C:\Users\redal\source\tools\vcpkg\installed\x64-windows\include\qt5\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreBuildEvent>
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message>Automatic MOC and UIC for target qbt_webui</Message>
+      <Command>setlocal
+cd C:\Users\redal\source\repos\qBittorrent_sln\src\webui
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui_autogen.dir/AutogenInfo.json RelWithDebInfo
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreBuildEvent>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent\src\webui\CMakeLists.txt">
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/redal/source/repos/qBittorrent/src/webui/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/redal/source/repos/qBittorrent/src/webui/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/redal/source/repos/qBittorrent -BC:/Users/redal/source/repos/qBittorrent_sln --check-stamp-file C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/redal/source/repos/qBittorrent -BC:/Users/redal/source/repos/qBittorrent_sln --check-stamp-file C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/redal/source/repos/qBittorrent/src/webui/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/redal/source/repos/qBittorrent/src/webui/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/redal/source/repos/qBittorrent -BC:/Users/redal/source/repos/qBittorrent_sln --check-stamp-file C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/redal/source/repos/qBittorrent -BC:/Users/redal/source/repos/qBittorrent_sln --check-stamp-file C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/redal/source/repos/qBittorrent/src/webui/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/redal/source/repos/qBittorrent/src/webui/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/redal/source/repos/qBittorrent -BC:/Users/redal/source/repos/qBittorrent_sln --check-stamp-file C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/redal/source/repos/qBittorrent -BC:/Users/redal/source/repos/qBittorrent_sln --check-stamp-file C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/redal/source/repos/qBittorrent/src/webui/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/redal/source/repos/qBittorrent/src/webui/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/redal/source/repos/qBittorrent -BC:/Users/redal/source/repos/qBittorrent_sln --check-stamp-file C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/redal/source/repos/qBittorrent -BC:/Users/redal/source/repos/qBittorrent_sln --check-stamp-file C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\redal\source\repos\qBittorrent_sln\src\webui\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\mocs_compilation_Debug.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\apicontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\apierror.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\appcontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\authcontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\freediskspacechecker.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\isessionmanager.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\logcontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\rsscontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\searchcontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\synccontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\torrentscontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\transfercontroller.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\serialize\serialize_torrent.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\webapplication.h" />
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\webui.h" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\apicontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\apierror.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\appcontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\authcontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\freediskspacechecker.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\logcontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\rsscontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\searchcontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\synccontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\torrentscontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\transfercontroller.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\serialize\serialize_torrent.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\webapplication.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\webui.cpp" />
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\mocs_compilation_Release.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\mocs_compilation_MinSizeRel.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\redal\source\repos\qBittorrent_sln\ZERO_CHECK.vcxproj">
+      <Project>{22C091DE-FD3B-3A17-B7BF-0C182297814C}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\redal\source\repos\qBittorrent_sln\src\base\qbt_base.vcxproj">
+      <Project>{03095ABF-C9B9-3F21-9EA6-60133D3DB8BD}</Project>
+      <Name>qbt_base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\apicontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\apierror.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\appcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\authcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\freediskspacechecker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\logcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\rsscontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\searchcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\synccontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\torrentscontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\transfercontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\serialize\serialize_torrent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\webapplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\webui\webui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\qbt_webui_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\apicontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\apierror.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\appcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\authcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\freediskspacechecker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\isessionmanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\logcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\rsscontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\searchcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\synccontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\torrentscontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\transfercontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\api\serialize\serialize_torrent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\webapplication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\webui\webui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent\src\webui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AFC433E7-BD6B-3A9C-8EBC-CCF640C56452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B082673B-3AA1-3F26-A026-AF7FA7441B58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,76 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakePushCheckState.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindBoost.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindIconv.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindOpenSSL.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindThreads.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindZLIB.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/SelectLibraryConfigurations.cmake
+C:/Users/redal/source/repos/qBittorrent/cmake/Modules/MacroQbtCommonConfig.cmake
+C:/Users/redal/source/repos/qBittorrent/src/CMakeLists.txt
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/LibtorrentRasterbar/LibtorrentRasterbarConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/LibtorrentRasterbar/LibtorrentRasterbarConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/LibtorrentRasterbar/LibtorrentRasterbarTargets-debug.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/LibtorrentRasterbar/LibtorrentRasterbarTargets-release.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/LibtorrentRasterbar/LibtorrentRasterbarTargets.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5/Qt5Config.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5/Qt5ConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5/Qt5ModuleLocation.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Core/Qt5CoreConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Core/Qt5CoreConfigExtras.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Core/Qt5CoreConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Core/Qt5CoreMacros.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5GuiConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Network/Qt5NetworkConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Sql/Qt5SqlConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Svg/Qt5SvgConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Svg/Qt5SvgConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5WinExtras/Qt5WinExtrasConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5WinExtras/Qt5WinExtrasConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Xml/Qt5XmlConfig.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/iconv/vcpkg-cmake-wrapper.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/openssl/vcpkg-cmake-wrapper.cmake
+C:/Users/redal/source/tools/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake

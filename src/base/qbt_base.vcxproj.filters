@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\base\qbt_base_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\asyncfilestorage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\abstractfilestorage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\bandwidthscheduler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\bencoderesumedatastorage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\customstorage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\dbresumedatastorage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\downloadpriority.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\filesearcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\filterparserthread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\infohash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\magneturi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\nativesessionextension.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\nativetorrentextension.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\peeraddress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\peerinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\portforwarderimpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\session.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\speedmonitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\statistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrentcreatorthread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrentimpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrentinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\trackerentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\exceptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\connection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\httperror.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\requestparser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\responsebuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\responsegenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\iconprovider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\dnsupdater.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\downloadhandlerimpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\downloadmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\geoipdatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\geoipmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\portforwarder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\proxyconfigurationmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\reverseresolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\smtp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\preferences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\profile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\profile_p.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_article.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_autodownloader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_autodownloadrule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_feed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_folder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_session.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\search\searchdownloadhandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\search\searchhandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\search\searchpluginmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\settingsstorage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\tagset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\torrentfileguard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\torrentfileswatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\torrentfilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\bytearray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\compare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\foreignapps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\gzip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\io.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\misc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\net.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\password.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\base\qbt_base_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\base\qbt_base_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\base\qbt_base_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\3rdparty\expected.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\algorithm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\asyncfilestorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\abstractfilestorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\addtorrentparams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\bandwidthscheduler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\bencoderesumedatastorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\cachestatus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\customstorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\dbresumedatastorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\downloadpriority.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\filesearcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\filterparserthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\infohash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\loadtorrentparams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\ltqhash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\lttypecast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\magneturi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\nativesessionextension.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\nativetorrentextension.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\peeraddress.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\peerinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\portforwarderimpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\resumedatastorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\session.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\sessionstatus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\speedmonitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\statistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrentcontentlayout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrentcreatorthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrentimpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\torrentinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\tracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\bittorrent\trackerentry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\digest32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\exceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\connection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\httperror.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\irequesthandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\requestparser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\responsebuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\responsegenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\http\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\iconprovider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\indexrange.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\dnsupdater.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\downloadhandlerimpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\downloadmanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\geoipdatabase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\geoipmanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\portforwarder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\proxyconfigurationmanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\reverseresolution.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\net\smtp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\orderedset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\preferences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\profile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\profile_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_article.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_autodownloader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_autodownloadrule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_feed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_folder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_parser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\rss\rss_session.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\search\searchdownloadhandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\search\searchhandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\search\searchpluginmanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\settingsstorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\tagset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\torrentfileguard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\torrentfileswatcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\torrentfilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\unicodestrings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\bytearray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\compare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\foreignapps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\fs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\gzip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\io.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\misc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\net.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\password.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\utils\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\base\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent\src\base\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AFC433E7-BD6B-3A9C-8EBC-CCF640C56452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B082673B-3AA1-3F26-A026-AF7FA7441B58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

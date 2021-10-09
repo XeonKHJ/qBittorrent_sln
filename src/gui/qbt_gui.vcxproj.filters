@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\gui\qbt_gui_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\aboutdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\addnewtorrentdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\advancedsettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\autoexpandabledialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\banlistoptionsdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\categoryfiltermodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\categoryfilterproxymodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\categoryfilterwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\cookiesdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\cookiesmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\deletionconfirmationdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\downloadfromurldialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\executionlogwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\fspathedit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\fspathedit_p.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\hidabletabwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\ipsubnetwhitelistoptionsdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\lineedit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\log\logfiltermodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\log\loglistview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\log\logmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\optionsdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\powermanagement\powermanagement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\previewlistdelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\previewselectdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\progressbarpainter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\downloadedpiecesbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\peerlistsortmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\peerlistwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\peersadditiondialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\pieceavailabilitybar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\piecesbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\propertieswidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\proplistdelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\proptabbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\speedplotview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\speedwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\trackerlistwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\trackersadditiondialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\raisedmessagebox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\articlelistwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\automatedrssdownloader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\feedlistwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\htmlbrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\rsswidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\pluginselectdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\pluginsourcedialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\searchjobwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\searchsortmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\searchwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\shutdownconfirmdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\speedlimitdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\statsdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\statusbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tagfiltermodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tagfilterproxymodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tagfilterwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcategorydialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentfiltermodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentmodelfile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentmodelfolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentmodelitem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontenttreeview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcreatordialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentoptionsdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\trackerentriesdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistdelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistfilterswidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistsortmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tristateaction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tristatewidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\uithememanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\watchedfolderoptionsdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\watchedfoldersmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\gui\programupdater.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\gui\qbt_gui_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\gui\qbt_gui_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\gui\qbt_gui_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\aboutdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\addnewtorrentdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\advancedsettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\autoexpandabledialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\banlistoptionsdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\categoryfiltermodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\categoryfilterproxymodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\categoryfilterwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\cookiesdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\cookiesmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\deletionconfirmationdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\downloadfromurldialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\executionlogwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\fspathedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\fspathedit_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\hidabletabwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\ipsubnetwhitelistoptionsdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\lineedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\log\logfiltermodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\log\loglistview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\log\logmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\optionsdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\powermanagement\powermanagement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\previewlistdelegate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\previewselectdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\progressbarpainter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\downloadedpiecesbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\peerlistsortmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\peerlistwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\peersadditiondialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\pieceavailabilitybar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\piecesbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\propertieswidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\proplistdelegate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\proptabbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\speedplotview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\speedwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\trackerlistwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\trackersadditiondialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\raisedmessagebox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\articlelistwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\automatedrssdownloader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\feedlistwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\htmlbrowser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\rsswidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\pluginselectdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\pluginsourcedialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\searchjobwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\searchsortmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\searchwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\shutdownconfirmdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\speedlimitdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\statsdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\statusbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tagfiltermodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tagfilterproxymodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tagfilterwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcategorydialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentfiltermodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentmodelfile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentmodelfolder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontentmodelitem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcontenttreeview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcreatordialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentoptionsdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\trackerentriesdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistdelegate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistfilterswidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistsortmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\transferlistwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tristateaction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\tristatewidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\uithememanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\watchedfolderoptionsdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\watchedfoldersmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\gui\programupdater.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent\src\gui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\aboutdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\addnewtorrentdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\autoexpandabledialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\banlistoptionsdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\cookiesdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\deletionconfirmationdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\downloadfromurldialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\executionlogwidget.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\ipsubnetwhitelistoptionsdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\mainwindow.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\optionsdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\previewselectdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\peersadditiondialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\propertieswidget.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\properties\trackersadditiondialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\automatedrssdownloader.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\rss\rsswidget.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\pluginselectdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\pluginsourcedialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\searchjobwidget.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\search\searchwidget.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\shutdownconfirmdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\speedlimitdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\statsdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcategorydialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentcreatordialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\torrentoptionsdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\trackerentriesdialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\watchedfolderoptionsdialog.ui" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AFC433E7-BD6B-3A9C-8EBC-CCF640C56452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B082673B-3AA1-3F26-A026-AF7FA7441B58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

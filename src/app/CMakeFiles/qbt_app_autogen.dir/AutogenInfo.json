@@ -1,0 +1,242 @@
+{
+	"BUILD_DIR" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/redal/source/repos/qBittorrent_sln",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/redal/source/repos/qBittorrent/src/app",
+	"CMAKE_EXECUTABLE" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/redal/source/repos/qBittorrent/src/app/CMakeLists.txt",
+		"C:/Users/redal/source/repos/qBittorrent/src/lang/lang.qrc",
+		"C:/Users/redal/source/repos/qBittorrent/src/webui/www/translations/webui_translations.qrc",
+		"C:/Users/redal/source/repos/qBittorrent/src/icons/icons.qrc",
+		"C:/Users/redal/source/repos/qBittorrent/src/searchengine/searchengine.qrc",
+		"C:/Users/redal/source/repos/qBittorrent_sln/src/lang/lang.qrc",
+		"C:/Users/redal/source/repos/qBittorrent_sln/src/webui/www/translations/webui_translations.qrc",
+		"C:/Users/redal/source/repos/qBittorrent/src/gui/about.qrc",
+		"C:/Users/redal/source/repos/qBittorrent/src/webui/www/webui.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/redal/source/repos/qBittorrent",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/application.h",
+			"MU",
+			"EWIEGA46WW/moc_application.cpp",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/applicationinstancemanager.h",
+			"MU",
+			"EWIEGA46WW/moc_applicationinstancemanager.cpp",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/cmdoptions.h",
+			"MU",
+			"EWIEGA46WW/moc_cmdoptions.cpp",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/filelogger.h",
+			"MU",
+			"EWIEGA46WW/moc_filelogger.cpp",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/qtlocalpeer/qtlocalpeer.h",
+			"MU",
+			"WFZLCRUDYK/moc_qtlocalpeer.cpp",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/stacktrace_win.h",
+			"MU",
+			"EWIEGA46WW/moc_stacktrace_win.cpp",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/stacktracedialog.h",
+			"MU",
+			"EWIEGA46WW/moc_stacktracedialog.cpp",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/upgrade.h",
+			"MU",
+			"EWIEGA46WW/moc_upgrade.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include",
+	"INCLUDE_DIR_Debug" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include_Release",
+	"MOC_COMPILATION_FILE" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/mocs_compilation.cpp",
+	"MOC_COMPILATION_FILE_Debug" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/mocs_compilation_Debug.cpp",
+	"MOC_COMPILATION_FILE_MinSizeRel" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/mocs_compilation_MinSizeRel.cpp",
+	"MOC_COMPILATION_FILE_RelWithDebInfo" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/mocs_compilation_RelWithDebInfo.cpp",
+	"MOC_COMPILATION_FILE_Release" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/mocs_compilation_Release.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"BOOST_ALL_NO_LIB",
+		"BOOST_ASIO_ENABLE_CANCELIO",
+		"NOMINMAX",
+		"NTDDI_VERSION=0x06010000",
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x050f02",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_CAST_FROM_BYTEARRAY",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_DEBUG",
+		"QT_NO_DEBUG_OUTPUT",
+		"QT_SQL_LIB",
+		"QT_STRICT_ITERATORS",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"STACKTRACE",
+		"TORRENT_LINKING_SHARED",
+		"TORRENT_NO_DEPRECATE",
+		"TORRENT_USE_ICONV",
+		"TORRENT_USE_LIBCRYPTO",
+		"TORRENT_USE_OPENSSL",
+		"UNICODE",
+		"WIN32",
+		"WIN32_LEAN_AND_MEAN",
+		"_CRT_SECURE_NO_DEPRECATE",
+		"_SCL_SECURE_NO_DEPRECATE",
+		"_UNICODE",
+		"_WIN32_IE=0x0601",
+		"_WIN32_WINNT=0x0601"
+	],
+	"MOC_DEFINITIONS_Debug" : 
+	[
+		"BOOST_ALL_NO_LIB",
+		"BOOST_ASIO_ENABLE_CANCELIO",
+		"NOMINMAX",
+		"NTDDI_VERSION=0x06010000",
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x050f02",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_CAST_FROM_BYTEARRAY",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_SQL_LIB",
+		"QT_STRICT_ITERATORS",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"STACKTRACE",
+		"TORRENT_LINKING_SHARED",
+		"TORRENT_NO_DEPRECATE",
+		"TORRENT_USE_ASSERTS",
+		"TORRENT_USE_ICONV",
+		"TORRENT_USE_LIBCRYPTO",
+		"TORRENT_USE_OPENSSL",
+		"UNICODE",
+		"WIN32",
+		"WIN32_LEAN_AND_MEAN",
+		"_CRT_SECURE_NO_DEPRECATE",
+		"_SCL_SECURE_NO_DEPRECATE",
+		"_UNICODE",
+		"_WIN32_IE=0x0601",
+		"_WIN32_WINNT=0x0601"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/redal/source/repos/qBittorrent/src",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/include",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/include/qt5",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/include/qt5/QtCore",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/tools/qt5/mkspecs/win32-msvc",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/include/qt5/QtNetwork",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/include/qt5/QtSql",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/include/qt5/QtXml",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/include/qt5/QtGui",
+		"C:/Users/redal/source/tools/vcpkg/installed/x64-windows/include/qt5/QtWidgets"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : true,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE_Debug" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/ParseCache_Debug.txt",
+	"PARSE_CACHE_FILE_MinSizeRel" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/ParseCache_MinSizeRel.txt",
+	"PARSE_CACHE_FILE_RelWithDebInfo" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/ParseCache_RelWithDebInfo.txt",
+	"PARSE_CACHE_FILE_Release" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/ParseCache_Release.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Users/redal/source/tools/vcpkg/installed/x64-windows/tools/qt5/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Users/redal/source/tools/vcpkg/installed/x64-windows/tools/qt5/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE_Debug" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutogenUsed_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutogenUsed_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutogenUsed_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutogenUsed_Release.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/application.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/applicationinstancemanager.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/cmdoptions.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/filelogger.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/qtlocalpeer/qtlocalpeer.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/stacktracedialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/redal/source/repos/qBittorrent/src/app/upgrade.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

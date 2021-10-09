@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\eb396705ab34e273ddcfcb4645f6a0b4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EC060792-43D9-3306-94D7-0011F9A4E679}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

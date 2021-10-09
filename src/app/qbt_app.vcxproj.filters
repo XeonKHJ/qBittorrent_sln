@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\app\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\app\applicationinstancemanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\app\cmdoptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\app\filelogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\app\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\app\qtlocalpeer\qtlocalpeer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\app\upgrade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent\src\app\stacktracedialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\NPXYM6ZNPF\qrc_icons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\G6NVOLQRLL\qrc_searchengine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\QEGXZHQBWD\qrc_lang.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\MMBH3QESQQ\qrc_webui_translations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\TUYZJ7PCOQ\qrc_about.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\TEN4WZ4RQ3\qrc_webui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\redal\source\repos\qBittorrent_sln\src\app\qbt_app_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\app\application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\app\applicationinstancemanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\app\cmdoptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\app\filelogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\app\qtlocalpeer\qtlocalpeer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\app\upgrade.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\app\stacktrace_win.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\redal\source\repos\qBittorrent\src\app\stacktracedialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ar.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_az@latin.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_be.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_bg.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ca.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_cs.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_da.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_de.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_el.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_en.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_en_AU.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_en_GB.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_eo.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_es.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_et.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_eu.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_fa.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_fi.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_fr.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_gl.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_he.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_hi_IN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_hr.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_hu.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_hy.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_id.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_is.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_it.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ja.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ka.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ko.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_lt.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ltg.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_lv_LV.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_mn_MN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ms_MY.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_nb.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_nl.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_oc.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_pl.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_pt_BR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_pt_PT.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ro.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_ru.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_sk.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_sl.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_sr.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_sv.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_th.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_tr.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_uk.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_uz@Latn.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_vi.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_zh.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_zh_HK.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\f23471ac23134c2c71a5b2c410163520\qbittorrent_zh_TW.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ar.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_az@latin.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_be.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_bg.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ca.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_cs.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_da.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_de.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_el.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_en.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_en_AU.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_en_GB.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_eo.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_es.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_et.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_eu.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_fa.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_fi.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_fr.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_gl.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_he.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_hi_IN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_hr.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_hu.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_hy.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_id.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_is.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_it.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ja.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ka.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ko.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_lt.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ltg.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_lv_LV.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_mn_MN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ms_MY.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_nb.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_nl.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_oc.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_pl.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_pt_BR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_pt_PT.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ro.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_ru.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_sk.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_sl.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_sr.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_sv.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_th.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_tr.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_uk.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_uz@Latn.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_vi.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_zh.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_zh_HK.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\7fda3bad4aec6f9a46fc77dd6d5dbecc\webui_zh_TW.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\c8c2892925c7154dbfc34ec4d384a78c\qrc_icons.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\969fad4076caf659aad8de1d410048cc\qrc_searchengine.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\6a1f6a49f0dea7afc5250b29d30a543f\qrc_lang.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\bae86efbea676fd574dbe2d3c8af1155\qrc_webui_translations.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\5b1a6d8ba2e09116a8e9497a3216efb0\qrc_about.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent_sln\CMakeFiles\d5b987582e45875fd6c893a23d322f4b\qrc_webui.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\redal\source\repos\qBittorrent\src\app\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\icons\icons.qrc" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\searchengine\searchengine.qrc" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ar.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_az@latin.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_be.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_bg.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ca.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_cs.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_da.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_de.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_el.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_en.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_en_AU.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_en_GB.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_eo.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_es.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_et.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_eu.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_fa.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_fi.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_fr.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_gl.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_he.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_hi_IN.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_hr.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_hu.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_hy.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_id.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_is.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_it.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ja.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ka.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ko.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_lt.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ltg.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_lv_LV.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_mn_MN.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ms_MY.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_nb.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_nl.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_oc.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_pl.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_pt_BR.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_pt_PT.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ro.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_ru.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_sk.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_sl.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_sr.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_sv.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_th.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_tr.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_uk.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_uz@Latn.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_vi.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_zh.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_zh_HK.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\qbittorrent_zh_TW.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\lang\lang.qrc" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\app\stacktracedialog.ui" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ar.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_az@latin.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_be.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_bg.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ca.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_cs.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_da.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_de.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_el.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_en.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_en_AU.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_en_GB.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_eo.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_es.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_et.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_eu.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_fa.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_fi.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_fr.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_gl.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_he.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_hi_IN.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_hr.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_hu.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_hy.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_id.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_is.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_it.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ja.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ka.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ko.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_lt.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ltg.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_lv_LV.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_mn_MN.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ms_MY.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_nb.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_nl.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_oc.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_pl.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_pt_BR.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_pt_PT.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ro.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_ru.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_sk.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_sl.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_sr.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_sv.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_th.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_tr.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_uk.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_uz@Latn.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_vi.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_zh.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_zh_HK.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_zh_TW.qm" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent_sln\src\webui\www\translations\webui_translations.qrc" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\gui\about.qrc" />
+    <None Include="C:\Users\redal\source\repos\qBittorrent\src\webui\www\webui.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\redal\source\repos\qBittorrent\src\qbittorrent.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EC060792-43D9-3306-94D7-0011F9A4E679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AFC433E7-BD6B-3A9C-8EBC-CCF640C56452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B082673B-3AA1-3F26-A026-AF7FA7441B58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

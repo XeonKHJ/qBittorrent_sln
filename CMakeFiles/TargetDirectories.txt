@@ -1,0 +1,14 @@
+C:/Users/redal/source/repos/qBittorrent_sln/CMakeFiles/INSTALL.dir
+C:/Users/redal/source/repos/qBittorrent_sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/redal/source/repos/qBittorrent_sln/CMakeFiles/ZERO_CHECK.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/CMakeFiles/INSTALL.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/base/CMakeFiles/qbt_base.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/base/CMakeFiles/INSTALL.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/gui/CMakeFiles/qbt_gui.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/gui/CMakeFiles/INSTALL.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/qbt_webui.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/webui/CMakeFiles/INSTALL.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app.dir
+C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/INSTALL.dir
+C:/Users/redal/source/repos/qBittorrent_sln/dist/CMakeFiles/INSTALL.dir
+C:/Users/redal/source/repos/qBittorrent_sln/dist/windows/CMakeFiles/INSTALL.dir

@@ -1,0 +1,35 @@
+{
+	"BUILD_DIR" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/redal/source/repos/qBittorrent_sln",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/redal/source/repos/qBittorrent/src/app",
+	"CMAKE_SOURCE_DIR" : "C:/Users/redal/source/repos/qBittorrent",
+	"INCLUDE_DIR" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include",
+	"INCLUDE_DIR_Debug" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/qbt_app_autogen/include_Release",
+	"INPUTS" : 
+	[
+		"C:/Users/redal/source/repos/qBittorrent/src/searchengine/nova3/helpers.py",
+		"C:/Users/redal/source/repos/qBittorrent/src/searchengine/nova3/sgmllib3.py",
+		"C:/Users/redal/source/repos/qBittorrent/src/searchengine/nova3/nova2dl.py",
+		"C:/Users/redal/source/repos/qBittorrent/src/searchengine/nova3/novaprinter.py",
+		"C:/Users/redal/source/repos/qBittorrent/src/searchengine/nova3/socks.py",
+		"C:/Users/redal/source/repos/qBittorrent/src/searchengine/nova3/nova2.py"
+	],
+	"LOCK_FILE" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutoRcc_searchengine_G6NVOLQRLL_Lock.lock",
+	"MULTI_CONFIG" : true,
+	"OPTIONS" : [ "--compress", "9", "--threshold", "5", "-name", "searchengine" ],
+	"OUTPUT_CHECKSUM" : "G6NVOLQRLL",
+	"OUTPUT_NAME" : "qrc_searchengine.cpp",
+	"RCC_EXECUTABLE" : "C:/Users/redal/source/tools/vcpkg/installed/x64-windows/tools/qt5/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutoRcc_searchengine_G6NVOLQRLL_Used.txt",
+	"SETTINGS_FILE_Debug" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutoRcc_searchengine_G6NVOLQRLL_Used_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutoRcc_searchengine_G6NVOLQRLL_Used_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutoRcc_searchengine_G6NVOLQRLL_Used_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "C:/Users/redal/source/repos/qBittorrent_sln/src/app/CMakeFiles/qbt_app_autogen.dir/AutoRcc_searchengine_G6NVOLQRLL_Used_Release.txt",
+	"SOURCE" : "C:/Users/redal/source/repos/qBittorrent/src/searchengine/searchengine.qrc",
+	"VERBOSITY" : 0
+}

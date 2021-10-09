@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Users/redal/source/repos/qBittorrent/src/app/CMakeLists.txt
+C:/Users/redal/source/repos/qBittorrent/src/gui/about.qrc
+C:/Users/redal/source/repos/qBittorrent/src/icons/icons.qrc
+C:/Users/redal/source/repos/qBittorrent/src/lang/lang.qrc
+C:/Users/redal/source/repos/qBittorrent/src/searchengine/searchengine.qrc
+C:/Users/redal/source/repos/qBittorrent/src/webui/www/translations/webui_translations.qrc
+C:/Users/redal/source/repos/qBittorrent/src/webui/www/webui.qrc
+C:/Users/redal/source/repos/qBittorrent_sln/src/lang/lang.qrc
+C:/Users/redal/source/repos/qBittorrent_sln/src/webui/www/translations/webui_translations.qrc
